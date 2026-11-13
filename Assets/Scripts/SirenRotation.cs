@@ -17,3 +17,4 @@ public class SirenRotation : MonoBehaviour
         transform.Rotate(0f, rotationSpeed * Time.deltaTime, 0f);
     }
 }
+// Script de rotación para las sirenas de la patrulla
